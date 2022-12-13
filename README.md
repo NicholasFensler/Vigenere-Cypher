@@ -16,10 +16,10 @@ TIPS:
 the program will execute it's Encrypting and Decrypting functions seperately. It's suggested to use the Encrypting part of the program first and remember your Keyword so that when you decrypt you'll use the same keyword and the encrypted string it gave you earlier. 
 
 EXAMPLE:
-original string/text: HELLOWORLD  (input)
-keyword: NICK                     (input)
-encryption: UMNVBEQBYL            (output)
+original string/text: HELLOWORLD  
+keyword: NICK                     
+encryption: UMNVBEQBYL            
 then -----
-string/text: UMNVBEQBYL           (input)
-keyword: NICK                     (input)
-decryption: HELLOWORLD            (output)
+string/text: UMNVBEQBYL           
+keyword: NICK                     
+decryption: HELLOWORLD            
