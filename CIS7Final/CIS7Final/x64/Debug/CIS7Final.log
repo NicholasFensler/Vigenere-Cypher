@@ -1,0 +1,3 @@
+﻿  NFVigenere.cpp
+C:\Users\Nicholas Fensler\source\repos\CIS7Final\CIS7Final\NFVigenere.cpp(65,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CIS7Final.vcxproj -> C:\Users\Nicholas Fensler\source\repos\CIS7Final\x64\Debug\CIS7Final.exe
